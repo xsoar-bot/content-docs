@@ -57,14 +57,14 @@ We require our Partners to take two training classes at the [Palo Alto Networks 
 
 ## 4. Identify and Document 
 
-Once you're accepted in the program, we'll provide you links to a few resources, including our [Support Portal](https://docs.paloaltonetworks.com/). We'll also share a document template, already partially compiled, that outlines the scope of the integration. The document includes concepts such as:
+Once you're accepted in the program, we'll provide you links to a few resources, including our [Support Portal](https://docs.paloaltonetworks.com/). We'll also share a document template, already partially compiled, that outlines the scope of the integration. Use the [HelloWorld example](https://docs.google.com/document/d/1wETtBEKg37PHNU8tYeB56M1LE314ux086z3HFeF_cX0/edit) as a guide. Your design document includes concepts such as:
 - Use cases
 - Commands/APIs used
 - Input for commands
 - Context output for commands
 - Raw output for commands
 
-We'll ask you to complete the document and submit back to us for review prior to starting to build. We will be available for clarification and follow up conversations.
+We'll ask you to complete the document and submit back to us for review prior to starting to build. We are available for clarification and follow up conversations.
 
 
 ## 5. Build the Integration
